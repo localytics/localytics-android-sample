@@ -23,9 +23,9 @@ This project demonstrates the integration of the Localytics SDK into an Android 
 
 ### Installation
 
-1. **Clone the repository:**2. **Open the project in Android Studio:**
+1. **Clone the repository:**
 
-2. Import the project into Android Studio.
+2. **Open the project in Android Studio:**
 
 3. **Paste the `localytics.xml` file:**
    Copy the `localytics.xml` file (provided with the Localytics SDK) into the `app/src/main/res/values` directory of your project.
