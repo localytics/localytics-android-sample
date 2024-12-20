@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">LocalyticsDemoApp</string>
+    <string name="localytics">Localytics</string>
+    <string name="push">Push :</string>
+    <string name="push_notification_feature"># Push Notification feature #</string>
+    <string name="push_info">Info : After registration for Push Notification you will receive notification.</string>
+    <string name="ready_to_receive">Ready to receive</string>
+    <string name="in_app_message">In-App Message :</string>
+    <string name="in_app_message_feature"># InAppMessage Feature #</string>
+    <string name="in_app_info">Info : It will display a pop-up after performing any specific event.</string>
+    <string name="enter_event_name">Enter event name</string>
+    <string name="submit">Submit</string>
+    <string name="inbox_messaging">Inbox Campiagns:</string>
+    <string name="inbox_count">Inbox Count: %1$s Campaigns</string>
+    <string name="event_feature"># Events Feature #</string>
+    <string name="events">Events</string>
+    <string name="tag_event">Tag Event</string>
+    <string name="add_attributes">Add Attributes</string>
+    <string name="customer_id">Customer ID</string>
+    <string name="customer_id_feature"># Customer Id Feature #</string>
+    <string name="enter_customer_id">Enter Customer ID</string>
+    <string name="set">Set</string>
+    <string name="this_field_is_required">This field is required</string>
+    <string name="logout_customer_id"># Logout Customer Id #</string>
+    <string name="logout">Logout</string>
+    <string name="logs">Logs</string>
+    <string name="info_logs">Info: Set to YES to enable logs and NO to disable this.</string>
+    <string name="enable">Enable</string>
+    <string name="profile">Profile</string>
+    <string name="info_profile">Info: Set Profile attributes and Profile Values</string>
+    <string name="host">Host</string>
+    <string name="info_host">Info: Allow changing/configuring of the domains.</string>
+    <string name="keys">Keys</string>
+    <string name="total_keys">Total Keys: 3</string>
+    <string name="install_id">Install ID</string>
+    <string name="app_key">App Key</string>
+    <string name="push_token">Push Token</string>
+    <string name="about_screen">About Localytics</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+</resources>
